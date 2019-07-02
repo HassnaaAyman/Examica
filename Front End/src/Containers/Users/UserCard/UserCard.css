@@ -1,0 +1,41 @@
+.box-card{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    min-width: 20%;
+    min-height: 200px;
+    margin-top: 70px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    border-radius: 10px;
+    position: relative;
+    overflow: visible;
+    cursor: pointer;
+}
+.userName{
+    line-height: 1.5px;
+    color:#5580FF;
+    font-weight: 800;
+    text-align: center;
+    padding: 10px;
+    margin-top: 60px;
+}
+.email{
+    line-height: 15px;
+    text-align: center;
+    padding: 20px;
+
+    font-weight: 400;
+    color: #7BB9FF;
+}
+.phoneNum{
+    line-height: 15px;
+    text-align: center;
+    font-weight: 500;
+    color: #7BB9FF;
+}
+.userCard-img{
+    position: absolute;
+    top:-55px;
+    left: 30%;
+    border-radius: 50%;
+    width: 120px;
+}

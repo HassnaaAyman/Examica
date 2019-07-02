@@ -1,0 +1,51 @@
+.QuestionTypes
+{
+    min-height: 35rem;
+    padding: 2rem;
+}
+.QuestionTypes .el-submenu .el-menu-item:hover, .el-submenu__title:hover{
+    background-color: unset;
+}
+
+.QuestionTypes .el-submenu
+{
+    background-color: #ff8a73;  
+}
+.QuestionTypes .el-submenu-title:hover{
+    background-color: #ff8a73;
+}
+.QuestionTypes .el-menu {
+    width: 21rem;
+}
+
+.QuestionTypes .el-submenu__title{
+   color : #1e120f ;
+}
+
+.QuestionTypes .el-submenu__title span i {
+    padding:  12px;
+}
+.QuestionTypes .QuestionMenuCol .el-menu-item-group
+{
+    background-color: #FFFFFF;
+    padding: 4px;
+}
+
+
+.QuestionTypes .QuestionMenuCol{
+    border:1px solid #97a8be;
+    padding: 3rem; 
+    padding-left: 2rem;
+    border-left: unset; 
+    border-top: unset; 
+    border-bottom: unset; 
+}
+.QuestionTypes .el-col-8 
+{
+    width: 30.33333%;
+}
+
+.AddToExamBtn .el-button
+{
+    margin: 3rem;
+}

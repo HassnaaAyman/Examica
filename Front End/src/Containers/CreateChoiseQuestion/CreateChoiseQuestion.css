@@ -1,0 +1,30 @@
+.CreateMultipleChoiseQuestion .CreateMultipleChoiseQuestion-NumberInput {
+    width: 120px;
+}
+.CreateMultipleChoiseQuestion  .el-input-number{
+    width: 120px;
+}
+.CreateMultipleChoiseQuestion-Mark{
+    color: #58488C;
+    font-weight: 600;
+}
+.CreateMultipleChoiseQuestion .el-form-item__content{
+    margin: 0px;
+}
+.CreateMultipleChoiseQuestion .CreateMultipleChoiseQuestion-form-controles{
+    display: flex;
+    justify-content: flex-end;
+}
+.CreateMultipleChoiseQuestion .CreateMultipleChoiseQuestion-privacy{
+    display: flex;
+    justify-content: space-around
+}
+.CreateMultipleChoiseQuestion  .CreateMultipleChoiseQuestion-level-label{
+    font-weight: 600;
+    color: #58488C;
+}
+
+.CreateMultipleChoiseQuestion  .CreateMultipleChoiseQuestion-Question-type{
+    font-weight: 600;
+    color: #58488C;
+}

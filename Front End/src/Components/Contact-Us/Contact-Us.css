@@ -1,0 +1,20 @@
+.ContactUs
+{
+    padding: 190px 0;
+}
+
+.ContactUs .ContactUs-Info *
+{
+    display: flex ; 
+    justify-content: center;
+}
+
+.ContactUs .ContactUs-Info  h3 {
+    color: #FF8A73;
+}
+
+.ContactUs .ContactUs-Info p 
+{
+    
+    color: #B8B5BF;
+}

@@ -1,0 +1,22 @@
+.hyperlinks{
+    font-weight: bold;
+    color: black;
+    padding-top: 0.5rem;
+}
+.hyperlinks a{
+    text-decoration: none;
+   
+}
+
+.poolNav{
+    background-color: #dfe6ec;
+    height:4rem;
+    margin-top: 2rem;
+    padding-top:1rem;
+}
+
+.el-icon-plus:before {
+    content: "\e61c";
+    padding-right: 0.3rem;
+    color: darkblue;
+}

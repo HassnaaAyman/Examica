@@ -1,0 +1,10 @@
+.TrueOrFalse
+{
+    padding: 10px;
+}
+.TrueOrFalse .TrueOrFalse-Title
+{
+    font-size: 20px;
+    color: #58488C;
+    margin-right: 30px;
+}

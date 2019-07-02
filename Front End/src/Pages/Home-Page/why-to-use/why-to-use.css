@@ -1,0 +1,15 @@
+.WhyToUse{
+    display: flex;
+    justify-content: center;
+    margin: 2rem;
+}
+.WhyToUse .WhyToUse-paragraphs{
+    padding: 4rem;
+}
+.WhyToUse .WhyToUse-Img {
+    width: 100%;
+}
+.WhyToUse .WhyToUse-title{
+    color:#58488C;
+}
+

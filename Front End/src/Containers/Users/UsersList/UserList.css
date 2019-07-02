@@ -1,0 +1,19 @@
+.UserList .UserList-Cards
+{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.UserList
+{
+    padding: 50px 0 170px 0;
+}
+
+.UserList .NotFound
+{
+    color: #f88a69;
+    padding: 112px 0 ;
+    font-weight: bold;
+    font-size: 30px;
+}

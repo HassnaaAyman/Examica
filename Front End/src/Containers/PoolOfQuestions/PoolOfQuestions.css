@@ -1,0 +1,20 @@
+.QPool .questionOptions{
+    border: none;
+    font-size: large;
+    color: rgb(0, 0, 0);
+}
+
+.QPool
+{
+    padding: 7rem 0;
+}
+
+.QPool .NoQuestions
+{
+    text-align: center;
+    color:#FF8A73;
+    font-size: 2rem;
+    font-weight: 400px;
+    text-align: center;
+    margin: 8rem 0;
+}

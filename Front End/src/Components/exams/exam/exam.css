@@ -1,0 +1,61 @@
+.Exam *
+{
+    padding: 0;
+    margin: 0;
+    cursor: pointer;
+}
+.Exam 
+{
+    margin: 20px 0;
+}
+.Exam .el-card
+{
+    border: 2px solid #d1dbe500;
+    border-radius: 14px;
+}
+
+.Exam .Exam-card
+{
+    width:16rem;
+    height: 22rem;
+}
+
+.Exam .el-card  div
+{
+    padding: 0px;
+}
+
+.Exam img
+{
+    width: 100%;
+}
+
+.Exam .Exam-Details
+{
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.Exam .Exam-Name
+{
+    color: #324157;
+    font-weight: bold;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+.Exam .Exam-Date-Label
+{
+    color: #485e7e;
+    text-transform: uppercase;
+}
+
+.Exam .Exam-Date
+{
+    font-weight: bold;
+    font-size: 12px;
+    display: flex;
+    justify-content: space-evenly;
+}

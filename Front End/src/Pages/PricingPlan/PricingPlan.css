@@ -1,0 +1,15 @@
+.PricingCardList{
+    margin: 2rem;
+}
+
+.PricingCardList .PricingCardList-featrues{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.PricingCardList .PricingCardList-title{
+    padding: 4rem;
+    text-align: center;
+    color: #58488C; 
+}

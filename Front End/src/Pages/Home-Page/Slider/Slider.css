@@ -1,0 +1,51 @@
+.Slider{
+   width: 100% ;
+   height: 700px;
+   background-image:linear-gradient(
+    to top,
+    #DEEDFE,
+    #EAF3FC,
+    hsl(0, 0%, 100%)
+  ); 
+  display: flex;
+  justify-content: center;
+}
+.Slider .wraper{
+  align-self: flex-end;
+  text-align: center;
+}
+.Slider .wraper h2{
+  color: #58488C;
+  font-family: 'Raleway', sans-serif;
+}
+.Slider .wraper p{
+  color: #58488C;
+}
+.Slider .background-1
+{
+    height: 450px;
+    width: 870px;
+    background-image:url("https://i.ibb.co/Lhr7Mw6/header.png");
+    background-position: bottom;
+    background-size: cover;
+    background-repeat: no-repeat;
+    z-index: 1;
+}
+.Slider h2{
+  text-align: center;
+}
+
+.Slider .Buttonprimary{
+  border-radius: 20px;
+  background-color: #FF8A73;
+  font-size: 18px;
+  color: white;
+  
+}
+.Slider .Buttonsecondry{
+  border-radius: 20px;
+  color: white;
+  font-size: 18px;
+  background-color: #7BB9FF;
+
+}

@@ -1,0 +1,46 @@
+.Footer
+{
+    padding: 17px 0;
+}
+.Footer, .Footer .el-menu 
+{
+    background-color: #2D2D47;
+}
+
+.Footer *
+{
+    display: flex;
+    justify-content: center;
+}
+
+.Footer li 
+{
+    color: #B8B5BF;
+    font-size: 17px;
+}
+
+.Footer p 
+{
+    color: #FFFFFF;
+    font-size: 13px ;
+    margin: 10px 0;
+}
+
+.Footer p span 
+{
+    color: #FF8A73;
+    margin-left: 5px;
+}
+
+.Footer .SocialLinks
+{
+    margin-top: 30px;
+}
+
+.Footer .SocialLinks a 
+{
+    margin: 0 15px;
+    color: #B8B5BF;
+    font-size: 25px;
+}
+

@@ -1,0 +1,8 @@
+.ComprehenssionQuestion .ComprehenssionQuestion-form-controles{
+    display: flex;
+    justify-content: flex-end;
+}
+.ComprehenssionQuestion .ComprehenssionQuestion-privacy{
+    display: flex;
+    justify-content: space-around
+}

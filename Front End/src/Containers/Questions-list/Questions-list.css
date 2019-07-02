@@ -1,0 +1,44 @@
+
+.QuestionList a{
+    text-decoration: none;
+}
+.QuestionList .el-button--primary:focus, .el-button--primary:hover
+{
+    background: unset;
+    border-color: unset;
+    color: unset; 
+}
+.QuestionList .el-button .el-button--primary .el-button--small span{
+    color: unset;
+}
+.QuestionList .far .fa-question-circle{
+
+    margin-right: 2px;
+}
+
+.QuestionList .el-button--primary {
+    color: #1f2d3d;
+    background-color: #efefef;
+    border-color: #97a8be; 
+    width: 135px;
+    justify-content: flex-start;
+    display: flex;
+    min-width: 120px;
+}
+
+.QuestionList .el-col-offset-1 {
+    margin-left: 4.16667%;
+    margin-bottom: 9px;
+}
+
+.QuestionList .el-button--primary:focus, .el-button--primary:hover
+{
+    background-color: unset ; 
+}
+
+.QuestionList .fas {
+    padding-right: 11px;
+}
+
+
+

@@ -1,0 +1,12 @@
+.MiddleNavbar {
+    background-color: #999999;
+}
+.MiddleNavbar .logo{
+    font-size: 30px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    color:  #58488C;
+}
+.MiddleNavbar  .el-menu-item.is-active, .el-menu-item.is-active {
+    color: #58488C;
+}

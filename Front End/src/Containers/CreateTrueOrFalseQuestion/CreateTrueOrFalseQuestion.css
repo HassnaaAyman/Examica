@@ -1,0 +1,107 @@
+
+.CreateTrueOrFalseQuestion  .CreateTrueOrFalseQuestion-col6
+{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.CreateTrueOrFalseQuestion  .CreateTrueOrFalseQuestion-col6-done
+{
+    display: flex;
+    justify-content: center;
+}
+.CreateTrueOrFalseQuestion .CreateTrueOrFalseQuestion-done
+{
+   
+    border: 1 solid black;
+    margin-right: 10rem;
+}
+
+.CreateTrueOrFalseQuestion .el-button--success
+{
+    background-color: #5580FF;
+}
+.CreateTrueOrFalseQuestion .el-button--primary
+{
+    background-color: #FFFFFF;
+    color: black;
+    border-color: black;
+}
+.CreateTrueOrFalseQuestion .CreateTrueOrFalseQuestion-textButton
+{
+
+    color: #D3D3D3;
+}
+
+.CreateTrueOrFalseQuestion  .fas 
+{
+    margin-left: 1rem;
+}
+
+
+
+
+.CreateTrueOrFalseQuestion .questionhead 
+{
+    display: flex;
+    flex-direction: column;
+}
+
+
+.CreateTrueOrFalseQuestion .CreateTrueOrFalseQuestion-questionhead-input
+{
+    margin-top: 4rem;
+}
+
+.CreateTrueOrFalseQuestion .CreateTrueOrFalseQuestion-questionhead  .el-input
+{
+    width: 33rem;
+} 
+
+.CreateTrueOrFalseQuestion .CreateTrueOrFalseQuestion-questionhead-radios
+{
+   margin-top: 2rem;
+   display: flex;
+   flex-direction: column;
+}
+
+.CreateTrueOrFalseQuestion .CreateTrueOrFalseQuestion-questionhead-optionB
+{
+    margin-left: unset;
+}
+
+.CreateTrueOrFalseQuestion .CreateTrueOrFalseQuestion-level
+{
+    font-weight: 600;
+    color: #58488C;
+    display: flex;
+    flex-direction: column;
+    margin-left: 10rem;
+    margin-top: 3rem;
+}
+
+.CreateTrueOrFalseQuestion .el-rate , .el-switch
+{
+    margin-top: 1rem;
+}
+
+.CreateTrueOrFalseQuestion .CreateTrueOrFalseQuestion-IsPuplic
+{
+    font-weight: 600;
+    color: #58488C;
+    display: flex;
+    flex-direction: column;
+    margin: 4rem 0rem 5rem 10rem;
+    
+}
+
+.CreateTrueOrFalseQuestion .CreateTrueOrFalseQuestion-mark
+{
+    font-weight: 600;
+    color: #58488C;
+    display: flex;
+    flex-direction: column;
+} 
+
+
+

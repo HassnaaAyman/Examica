@@ -1,0 +1,38 @@
+.RenderExam
+{
+    padding: 100px;
+}
+
+.RenderExam .RenderExam-Name
+{
+    color: #58488C;
+    font-size: 37px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.RenderExam .RenderExam-Number
+{
+    color: #2D2D47;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.RenderExam .RenderExam-Button
+{
+    display: flex;
+    justify-content: center;
+}
+
+.RenderExam .el-button
+{
+    background-color: #F88A69;
+    border: none;
+}
+
+.RenderExam .el-button:hover
+{
+    background-color: rgb(226, 127, 97);
+    border: none;
+}

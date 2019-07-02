@@ -1,0 +1,44 @@
+.ProfilePage{
+    margin: 2rem;
+    padding: 7rem 0;
+}
+
+.ProfilePage .ProfilePage-left-section{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 1rem;
+}
+
+.ProfilePage .ProfilePage-pic{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+  
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-image: url("https://www.povertyalliance.org/wp-content/uploads/2019/03/Portrait_Placeholder.png");
+}
+
+.ProfilePage .ProfilePage-info{
+    padding: 1rem;
+    text-align: center;
+}
+
+.ProfilePage .ProfilePage-info-name{
+    padding: 1rem;
+    color: #5580FF;
+    text-transform: capitalize
+}
+
+.ProfilePage  .ProfilePage-info-icon{
+    padding-right: .5rem;
+    color: #5580FF;
+}
+
+.ProfilePage  .ProfilePage-right-section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}

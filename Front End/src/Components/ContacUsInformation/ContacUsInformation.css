@@ -1,0 +1,52 @@
+.ContacUsInformation
+{
+    justify-content: center;
+    display: flex;
+    margin-top: 44px;
+    margin-left: 100px;
+    /* max-width: 250px; */
+}
+
+.ContacUsInformation .ContacUsInformation-Icon
+{
+    margin-right: 10px;
+}
+
+.ContacUsInformation .fa-map-marker-alt
+{   
+     border-radius: 30.5px;
+     border: 13px solid #B8B5BF;
+     color: #2D2D47;
+     width: 42px;
+     background-color: #B8B5BF;
+}
+
+
+.ContacUsInformation .fa-phone
+{   
+     border-radius: 20.5px;
+     border: 13px solid #7BB9FF;
+     color: #2D2D47;
+     width: 44px;
+     background-color: #7BB9FF;
+}
+
+.ContacUsInformation .fa-envelope
+{   
+     border-radius: 20.5px;
+     border: 13px solid #FF8A73;
+     color: #2D2D47;
+     width: 44px;
+     background-color: #FF8A73;
+}
+
+.ContacUsInformation h5 
+{
+   font-size: 1rem ;
+}
+
+.ContacUsInformation p 
+{
+    color: #B8B5BF;
+    
+}

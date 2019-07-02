@@ -1,0 +1,17 @@
+.MCQ, .MCQ .MCQ-Option, .MCQ .el-checkbox__label
+{
+    padding: 10px;
+    color: #58488C;
+    font-size: 18px;
+}
+.MCQ .MCQ-Title
+{
+    font-size: 20px;
+    margin-right: 30px;
+}
+
+.MCQ .MCQ-CheckBox
+{
+    display: block;
+    margin-left: 0;
+}

@@ -1,0 +1,15 @@
+.AddExam
+{
+    width: 60%;
+    margin: 0 auto;
+    padding: 6.2rem;
+}
+
+.AddExam .title 
+{
+    text-align: center;
+    color:#FF8A73;
+    font-size: 2rem;
+    font-weight: 400px;
+    margin-bottom: 1rem;
+}

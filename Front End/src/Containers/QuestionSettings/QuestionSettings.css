@@ -1,0 +1,36 @@
+.QuestionSettings .select1{
+    margin-top: 1rem ;
+    z-index: 1px;
+}
+
+.QuestionSettings .label1
+{
+    position: absolute;
+    top: .6rem;
+    left: .5rem;
+}
+
+.QuestionSettings .label2
+{
+    position: absolute;
+    top: 5.5rem;
+    left: .5rem;
+}
+
+.QuestionSettings .select2{
+
+    margin-top: 3rem ;
+  
+}
+
+.QuestionSettings .label3
+{
+    position: absolute;
+    top: 9.8rem;
+    left: 8.5rem;
+}
+
+.QuestionSettings .select3
+{
+    top : .2rem;
+}
